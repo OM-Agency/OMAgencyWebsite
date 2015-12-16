@@ -3857,7 +3857,7 @@ address p {
 
 
 .banner-15 {
-    background-image: url("http://placehold.it/1600x742tant;
+    background-image: url("http://placehold.it/1600x742tant");
 }
 
 .banner-16 {
@@ -4263,4 +4263,8 @@ address p {
 
 .gray-bg-alt {
     background: #e8e8e8;
+}
+
+.rowmargin {
+    margin-top: 20px;
 }
